@@ -1,0 +1,14 @@
+2024-11-09	22:34:40	9956b4c4-0a9f-4def-af5b-bc522b053092	Error: Not allowed by CORS
+2024-11-10	00:04:57	37bb0944-56bf-4741-b808-00e6cac826bd	ReferenceError: id is not defined
+2024-11-10	00:05:26	9835a1a0-4c8b-4dae-8246-ca5adbbb0862	ReferenceError: id is not defined
+2024-11-10	00:05:49	da785642-0885-4ba6-b715-1fb1be0c3af1	ReferenceError: id is not defined
+2024-11-10	00:06:26	2513b586-10cc-424f-a8a3-0f00d101b0c3	ReferenceError: id is not defined
+2024-11-12	03:28:14	72987282-83df-4b14-9fa8-69bd7c953211	TypeError: data.employees.setEmployees is not a function
+2024-11-12	03:33:16	c0c55caf-3f4f-4de3-a361-88e44aad9da8	TypeError: data.employees.json is not a function
+2024-11-12	03:33:54	c83e7dad-94c9-4aa1-8062-41ecdcd80876	ReferenceError: json is not defined
+2024-11-12	13:25:37	a31dcb2b-8cb8-4c58-90d2-1df909a0c88c	SyntaxError: Bad control character in string literal in JSON at position 34
+2024-11-12	13:26:31	2b88f64b-c35c-42c5-a74e-cc71911d9f0e	SyntaxError: Bad control character in string literal in JSON at position 34
+2024-11-13	08:51:12	547d3720-4753-4c1f-9757-d3c3192b5c98	SyntaxError: Expected property name or '}' in JSON at position 42
+2024-11-13	08:51:24	d03cc979-5de5-4a15-af56-d63323cd2484	SyntaxError: Expected ',' or '}' after property value in JSON at position 62
+2024-11-13	08:51:31	3de394d3-34fa-4580-9d15-518bfc3f529b	SyntaxError: Expected double-quoted property name in JSON at position 59
+2024-11-13	08:53:27	bf6348a4-ddf6-4502-8ad0-69098561f4e6	SyntaxError: Expected ',' or '}' after property value in JSON at position 59
