@@ -11,4 +11,4 @@
 - Authorization using JWTs
 - Basic error handling
 
-Great thanks to Dave Gray and his extraordinary [tutorial]([url](https://youtu.be/f2EqECiTBL8?feature=shared)).
+Great thanks to Dave Gray and his extraordinary [tutorial](https://youtu.be/f2EqECiTBL8?feature=shared).
