@@ -1,4 +1,4 @@
-**This is a foundational web server using:**
+**This is a foundational REST API web server using:**
 - Node.js
 - Express
 - MVC architecture
